@@ -13,7 +13,7 @@ We'll explore the stuff created using the library and try making our own library
 What can we do with just the canvas element without an extra library?
 
 # 🟪 Using CSS for animations.
-There is already animation tools within css. Let's explore.
+There are already animation tools within css. Let's explore.
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
