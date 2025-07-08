@@ -1,3 +1,13 @@
+
+looks like the longest paragraph in chapter 1 is paragraph 17.
+this is easily observed just by scrolling to the right since all the paragraphs are now one line.
+
+other observation. looking at chapter 2 before removing all the enters that make each paragraph many lines of code the total lines of code for chapter 2 html was over 900. something like 980 something.
+after finishing the paragraph id updates for chapter 1 will move on to chapter 2 and also update to make all paragraphs only one line. then compare the new amount of lines of code for ch2 to the original.
+
+chapter2 lines originally: 972
+chapter2 lines after update to match chapter1's format: 
+
 diff paragraph
 ends w arabs i think
 
