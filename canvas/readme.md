@@ -15,10 +15,10 @@ now a series of more symbols first in a paragraph then in headings largest to sm
 
 😂❤️💵💲🚗
 
-#😂❤️💵💲🚗
-##😂❤️💵💲🚗
-###😂❤️💵💲🚗
-####😂❤️💵💲🚗
+# 😂❤️💵💲🚗
+## 😂❤️💵💲🚗
+### 😂❤️💵💲🚗
+#### 😂❤️💵💲🚗
 
 
 ## 🟪 Using CSS for animations within the canvas element.
