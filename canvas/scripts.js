@@ -14,3 +14,8 @@ for (let i = 0; i < xArray.length-1; i++) {
   ctx.ellipse(x, y, 3, 3, 0, 0, Math.PI * 2);
   ctx.fill();
 }
+const canvas2 = document.getElementById("myCanvas2");
+const ctx2 = canvas2.getContext("2d");
+
+ctx2.fillStyle = "green";
+ctx2.fillRect(10, 10, 150, 100);
